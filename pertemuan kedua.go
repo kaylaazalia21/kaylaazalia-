@@ -20,6 +20,8 @@ func main() {
 	fmt.Println(umur)
 	fmt.Println(alamat)
 	fmt.Println(berkacamata)
+	fmt.Println(minuskiri)
+	fmt.Println(minuskanan)
 	fmt.Println(hasilminus)
 
 }
